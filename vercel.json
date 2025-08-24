@@ -3,7 +3,6 @@
     { "source": "/registracija", "destination": "/templates/registracija.html" },
     { "source": "/login", "destination": "/templates/login.html" },
     { "source": "/pozdrav", "destination": "/templates/pozdrav.html" },
-    { "source": "/front", "destination": "/templates/front.html" },
-    { "source": "/:path*", "destination": "/templates/:path*" }
+    { "source": "/front", "destination": "/templates/front.html" }
   ]
 }
